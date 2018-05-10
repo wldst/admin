@@ -1,0 +1,4 @@
+spring: 
+    name: liuqiang
+    sex: 1
+    age: 30
