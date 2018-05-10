@@ -2,3 +2,5 @@ spring:
     name: liuqiang2
     sex: 1
     age: 33
+liuqiang:
+  say: testValue
